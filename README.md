@@ -2,12 +2,12 @@
 
 ## 项目要求:
 
-![req](F:\Users\liu'hao\Desktop\2\dataset\img\req.png)
+![req](https://github.com/neverwinHao/dataset/blob/main/img/req.png)
 
 ## Demo 1 噪点图像处理
 
-![demo1](F:\Users\liu'hao\Desktop\2\dataset\img\demo1.png)
+![demo1](https://github.com/neverwinHao/dataset/blob/main/img/demo1.png)
 
 ## Demo2 影子处理
 
-![demo2](F:\Users\liu'hao\Desktop\2\dataset\img\demo2.png)
+![demo2](https://github.com/neverwinHao/dataset/blob/main/img/demo2.png)
