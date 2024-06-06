@@ -4,11 +4,11 @@
 
 ![req](https://github.com/neverwinHao/dataset/blob/main/img/req.png)
 
-## Demo 1 噪点图像处理
+## Demo1: 噪点图像处理
 
 ![demo1](https://github.com/neverwinHao/dataset/blob/main/img/demo1.png)
 
-## Demo2 影子处理
+## Demo2: 影子处理
 
 ![demo2](https://github.com/neverwinHao/dataset/blob/main/img/demo2.png)
 
