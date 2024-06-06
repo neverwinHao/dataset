@@ -11,3 +11,6 @@
 ## Demo2 影子处理
 
 ![demo2](https://github.com/neverwinHao/dataset/blob/main/img/demo2.png)
+
+## Result
+该项目获得国家级二等奖，且申请国家专利一项(申请号：2024105764443)
