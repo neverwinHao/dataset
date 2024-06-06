@@ -1,5 +1,5 @@
 ## 第十八届室外远程驾驶无人车赛-测试结果
-
+[![platform](https://img.shields.io/badge/Platform-Python-blue.svg)](https://www.python.org/)
 ## 项目要求:
 
 ![req](https://github.com/neverwinHao/dataset/blob/main/img/req.png)
