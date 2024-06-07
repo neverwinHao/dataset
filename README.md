@@ -6,7 +6,7 @@
 
 ## Demo: S弯道绕行锥桶
 
-![Swan](https://github.com/neverwinHao/dataset/blob/main/img/Swan.gif)
+![Swan](https://github.com/neverwinHao/dataset/blob/main/img/person.gif/Swan.gif)
 
 ## Demo: 人行横道停车与启动
 
